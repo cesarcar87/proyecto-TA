@@ -1,0 +1,9 @@
+### Java ###
+# Clases compiladas
+*.class
+
+# Archivos de log
+*.log
+
+target/
+.idea/
